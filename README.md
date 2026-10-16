@@ -4,3 +4,5 @@ It is going to be a gate for Gaslands that has starting lights and detects when 
 Here are some images that show the <em>vision</em>!
 ![WhatsApp Image 2026-10-13 at 7.25.53 PM.jpeg](https://github.com/AsteroidSkewl/Gaslands-Car-Detector-Gate)
 ![WhatsApp Image 2026-10-13 at 7.26.04 PM.jpeg](https://github.com/AsteroidSkewl/Gaslands-Car-Detector-Gate)
+![Screenshot 2026-10-16 135009.png](https://github.com/AsteroidSkewl/Gaslands-Car-Detector-Gate)
+![Screenshot 2026-10-16 140201.png](https://github.com/AsteroidSkewl/Gaslands-Car-Detector-Gate)
