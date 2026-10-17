@@ -14,6 +14,12 @@ Here is what the code in Steamakersblocks.com actually looks like:
 For the end of the race, I decided that I wanted to play around with RTTTLs and make my own. I tried a few combinations, experimenting gradually rising and falling tones, as well as high and low beats next to each other. I finally landed upon this which I think works well. I might end up changing it later but I am happy with it. Here's a photo from the RTTTL maker.
 ![RTTTL score in the maker](RTTTLScore.png)
 
+I designed the majority of the Gaslands Gate in Fusion360. It has piping as holes to direct wires to the places they need to be (LEDs and sensor positions). I added some truss shapes to make it look more fit for the Gaslands universe.
+![The photo of Gaslands Gate model in CAD](GaslandsGateModelPhoto.png)
+There is a control box to the side which will house the arduino nano, switch, and buzzer. It has a lid that can come off to hide the parts. It is also connected to one of the IR sensor spots and the piping.
+![The photo of Gaslands Gate's control box model in CAD](ControlPanelPhoto.png)
+The .f3d and printable files are in this REPO.
+
 To make my Gaslands Gate fit into the post apocalyptic setting, I designed some parts to hide the cleaner, component holding parts of my CAD design. I designed these in Tinkercad because it's easier to design less functional parts there.
 I made barrels:
 ![Barrels I made for the gate](GaslandsBarrels.png)
