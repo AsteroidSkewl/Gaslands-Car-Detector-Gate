@@ -15,7 +15,7 @@ The code has two modes that can be changed by switching a switch.
 - The first mode is for the start of the race, that will alternate the LEDs that are on from red, to orange, to green. On each change, a buzzer will make a sound. Two low beeps and then a high beep on green.
 - The second mode is for the end of the race. When a car crosses the finish line, the lights will turn orange and an RTTTL will play (I will include more information below) and then it will go red.
 Here is what the code in Steamakersblocks.com actually looks like:
-![The code for the Gaslands Gate](Photos/GaslandsCode.png)
+![The code for the Gaslands Gate:](Photos/GaslandsCode.png)
 
 For the end of the race, I decided that I wanted to play around with RTTTLs and make my own. I tried a few combinations, experimenting gradually rising and falling tones, as well as high and low beats next to each other. I finally landed upon this which I think works well. I might end up changing it later but I am happy with it. Here's a photo from the RTTTL maker.
 ![RTTTL score in the maker](Photos/RTTTLScore.png)
